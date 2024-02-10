@@ -20,7 +20,7 @@ class PStack {
 }
 
 class PStackImpl extends PStack {
-  constructor(obj) {
+  constructor() {
     super();
   }
 
